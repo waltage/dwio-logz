@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/waltage/dwio/logz"
+	"github.com/waltage/dwio-logz"
 )
 
 var log = logz.DefaultLog("main")
